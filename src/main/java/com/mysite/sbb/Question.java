@@ -16,8 +16,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-@Entity // Question 클래스를 엔티티로 인
-
+@Entity // Question 클래스를 엔티티로 인식 
 public class Question {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
