@@ -1,10 +1,10 @@
 package com.example.demo;
 
-import com.mysite.sbb.SbbApplication; 
-import com.mysite.sbb.Question;
-import com.mysite.sbb.QuestionRepository;
-import com.mysite.sbb.Answer;
-import com.mysite.sbb.AnswerRepository;
+import com.mysite.sbb.SbbApplication;
+import com.mysite.sbb.answer.Answer;
+import com.mysite.sbb.answer.AnswerRepository;
+import com.mysite.sbb.question.Question;
+import com.mysite.sbb.question.QuestionRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
