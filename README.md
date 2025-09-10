@@ -10,10 +10,3 @@
 * Gradle 8.14.3
 * H2 Database (Test용)
 * IDE : Spring Tool Suite (STS)
-
-## 📂 학습 내용
-
-| 장(Chapter) | 주요 주제 |
-|------------|---------|
-| 1장 | 스프링부트, 컨트롤러 |
-| 2장 | JPA, H2 데이터베이스, JUnit, CRUD, Thymeleaf |
